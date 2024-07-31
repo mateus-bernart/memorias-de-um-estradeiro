@@ -2,7 +2,7 @@
   "name": "memorias-de-um-estradeiro",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://mateus-bernart.github.io/memorias-de-um-estradeiro",
+  "homepage": "http://mateus-bernart.github.io/memorias-de-um-estradeiro",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
