@@ -1,13 +1,13 @@
 {
+  "homepage": "http://mateus-bernart.github.io/memorias-de-um-estradeiro",
   "name": "memorias-de-um-estradeiro",
   "private": true,
   "version": "0.0.0",
-  "homepage": "http://mateus-bernart.github.io/memorias-de-um-estradeiro",
   "type": "module",
   "scripts": {
+    "dev": "vite",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
-    "dev": "vite",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
