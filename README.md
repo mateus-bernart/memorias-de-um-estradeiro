@@ -1,8 +1,5 @@
-# React + Vite
+# React + Vite project to a personal author website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Memorias de um Estradeiro is a series of incredible stories about the lifetime of a great man in the roads of Brazil.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project used the principle knowledges about React: great use of components for reusabilitty and styling with tailwindcss. Making a professional website design with 100% responsiveness.
