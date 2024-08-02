@@ -24,8 +24,18 @@ import people01 from "./people01.png";
 import people02 from "./people02.png";
 import people03 from "./people03.png";
 import logomemorias from "./images-memorias/logomemorias.png";
+import bookcapa from "./images-memorias/livromemorias2.png";
+import bookverso from "./images-memorias/livromemorias3.png";
+import author from "./images-memorias/author.jpg";
+import cuia1 from "./images-memorias/cuia1.jpg";
+import cuia2 from "./images-memorias/cuia2.jpg";
 
 export {
+  cuia1,
+  cuia2,
+  author,
+  bookverso,
+  bookcapa,
   logomemorias,
   airbnb,
   bill,

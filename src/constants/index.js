@@ -17,20 +17,12 @@ import {
 
 export const navLinks = [
   {
-    id: "home",
-    title: "Home",
+    id: "author",
+    title: "Autor",
   },
   {
-    id: "features",
-    title: "Features",
-  },
-  {
-    id: "product",
-    title: "Product",
-  },
-  {
-    id: "clients",
-    title: "Clients",
+    id: "contact",
+    title: "Contato",
   },
 ];
 
@@ -88,18 +80,18 @@ export const feedback = [
 export const stats = [
   {
     id: "stats-1",
-    title: "User Active",
-    value: "3800+",
+    title: "Horas na estrada",
+    value: "350 mil+",
   },
   {
     id: "stats-2",
-    title: "Trusted by Company",
-    value: "230+",
+    title: "Amizades pelo caminho",
+    value: "+ de 1000",
   },
   {
     id: "stats-3",
-    title: "Transaction",
-    value: "$230M+",
+    title: "bons momentos",
+    value: "Infinitos",
   },
 ];
 
