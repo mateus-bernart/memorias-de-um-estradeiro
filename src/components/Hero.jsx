@@ -25,10 +25,16 @@ const Hero = () => {
         </div>
 
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-          Lorem Ipsum is simply dummy text of the printing and typesetting
-          industry. Lorem Ipsum has been the industry's standard dummy text ever
-          since the 1500s, when an unknown printer took a galley of type and
-          scrambled it to make a type specimen book.
+          Em Memórias de um Estradeiro', mergulhe nas páginas emocionantes sobre
+          um homen cuja vida se entrelaça com as estradas, empresas e postos que
+          administrou Nessa jornada narrativa, João Troc compartilha não apenas
+          os desafios e triunfos do mundo dos negócios, mas também as histórias
+          pessoais e íntimas que moldaram a sua visão de mundo. Uma obra que vai
+          além de relatar acontecimentos, 'Memórias de um Estradeiro' é um
+          convite para reviver momentos de alegria, superar dificuldades e
+          valorizar as conexões humanas que nos sustentam. Uma leitura
+          envolvente que nos lembra que, no final, são as histórias e as pessoas
+          que encontramos ao longo do caminho que realmente importam.
         </p>
       </div>
 

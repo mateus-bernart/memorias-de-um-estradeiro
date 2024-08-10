@@ -19,8 +19,11 @@ const Billing = () => (
         Sobre <br className="sm:block hidden" />o autor
       </h2>
       <p className={`${styles.paragraph} max-w-[4700px] mt-5`}>
-        Elit enim sed massa etiam. Mauris eu adipiscing ultrices ametodio aenean
-        neque. Fusce ipsum orci rhoncus aliporttitor integer platea placerat.
+        Graduado em Administração de Empresas pela Universidade Campos de
+        Andrade, João Troc traz consigo uma sólida formação acadêmica. Além
+        disso, possui Pós-Graduação em Administração e Marketing, assim como em
+        Gestão de Logística. Mora em Concórdia-SC com a sua esposa, duas filhas
+        e duas cachorrinhas.
       </p>
       <div className="flex flex-row flex-wrap sm:mt-10 mt-6 "></div>
     </div>

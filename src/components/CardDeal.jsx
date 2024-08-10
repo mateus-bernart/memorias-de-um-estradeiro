@@ -10,8 +10,8 @@ const CardDeal = () => (
         Personalizados
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Arcu tortor, purus in mattis at sed integer faucibus. Aliquet quis
-        aliquet eget mauris tortor.ç Aliquet ultrices ac, ametau.
+        Da tradição das estradas, a cuia é um símbolo da cultura do autor. Seu
+        objetivo é principalmente as boas conversas!
       </p>
       <a href="https://produto.mercadolivre.com.br/MLB-3796356899-cuia-personalizada-do-livro-memorias-de-um-estradeiro-_JM">
         <Button styles="mt-10 rounded-[10px]" />
