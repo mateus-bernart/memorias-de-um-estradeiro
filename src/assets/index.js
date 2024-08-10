@@ -29,8 +29,10 @@ import bookverso from "./images-memorias/livromemorias3.png";
 import author from "./images-memorias/author.jpg";
 import cuia1 from "./images-memorias/cuia1.jpg";
 import cuia2 from "./images-memorias/cuia2.jpg";
+import miro from "./images-memorias/miro.png";
 
 export {
+  miro,
   cuia1,
   cuia2,
   author,

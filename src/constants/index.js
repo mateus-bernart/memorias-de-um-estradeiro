@@ -1,4 +1,5 @@
 import {
+  miro,
   people01,
   people02,
   people03,
@@ -57,7 +58,7 @@ export const feedback = [
       "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
     name: "Miro Saldanha",
     title: "Cantor, Compositor e amigo",
-    img: people01,
+    img: miro,
   },
 ];
 

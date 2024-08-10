@@ -7,7 +7,7 @@ const Billing = () => (
       <img
         src={author}
         alt="billing"
-        className="w-[50%] h-[15%] relative z-index[5] rounded-[20px]"
+        className="w-[60%] h-[100%] relative z-index[5] rounded-[20px]"
       />
 
       <div className="absolute z-[3] -left-1/2 top-0 w-[50%] h-[50%] rounded-full yellow__gradient" />
@@ -18,7 +18,7 @@ const Billing = () => (
       <h2 className={`${styles.heading2} text-gradient`}>
         Sobre <br className="sm:block hidden" />o autor
       </h2>
-      <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
+      <p className={`${styles.paragraph} max-w-[4700px] mt-5`}>
         Elit enim sed massa etiam. Mauris eu adipiscing ultrices ametodio aenean
         neque. Fusce ipsum orci rhoncus aliporttitor integer platea placerat.
       </p>

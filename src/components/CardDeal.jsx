@@ -18,9 +18,9 @@ const CardDeal = () => (
       </a>
     </div>
 
-    <div className={`${layout.sectionImg} space-x-10`}>
-      <img src={cuia1} alt="card" className="w-[50%] h-[50%] rounded-[20px]" />
-      <img src={cuia2} alt="card" className="w-[50%] h-[50%] rounded-[20px]" />
+    <div className={`${layout.sectionImg} space-x-5`}>
+      <img src={cuia1} alt="card" className="w-[50%] h-[100%] rounded-[20px]" />
+      <img src={cuia2} alt="card" className="w-[50%] h-[100%] rounded-[20px]" />
     </div>
 
     <div className="absolute z-[0] w-[60%] h-[60%] -right-[50%] rounded-full yellow__gradient" />
