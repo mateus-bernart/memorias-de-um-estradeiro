@@ -23,7 +23,7 @@ const CardDeal = () => (
       <img src={cuia2} alt="card" className="w-[50%] h-[100%] rounded-[20px]" />
     </div>
 
-    <div className="absolute z-[0] w-[60%] h-[60%] -right-[50%] rounded-full yellow__gradient" />
+    <div className="absolute z-[0] w-[60%] h-[60] rounded-full yellow__gradient" />
   </section>
 );
 export default CardDeal;
