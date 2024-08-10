@@ -2,7 +2,7 @@ import { apple, bill, google, author } from "../assets";
 import styles, { layout } from "../style";
 
 const Billing = () => (
-  <section id="product" className={layout.sectionReverse}>
+  <section id="author" className={layout.sectionReverse}>
     <div className={`${layout.sectionImgReverse}`}>
       <img
         src={author}
@@ -15,7 +15,7 @@ const Billing = () => (
     </div>
 
     <div className={layout.sectionInfo}>
-      <h2 className={styles.heading2}>
+      <h2 className={`${styles.heading2} text-gradient`}>
         Sobre <br className="sm:block hidden" />o autor
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>

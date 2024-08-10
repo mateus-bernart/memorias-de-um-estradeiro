@@ -18,7 +18,9 @@ const Hero = () => {
             <span className="text-gradient">Estradeiro</span>{" "}
           </h1>
           <div className="ss:flex hidden md:mr-4 mr-0">
-            <Button />
+            <a href="https://produto.mercadolivre.com.br/MLB-3793922755-memorias-de-um-estradeiro-_JM">
+              <Button />
+            </a>
           </div>
         </div>
 
@@ -42,7 +44,7 @@ const Hero = () => {
         <img
           src={bookverso}
           alt="bookverso"
-          className="w-[50%] h-[50%] relative z-[5] rounded-[120px]"
+          className="w-[50%] h-[50%] relative z-[5] rounded-[100px]"
         />
 
         {/* gradient start */}
@@ -53,7 +55,9 @@ const Hero = () => {
       </div>
 
       <div className={`ss:hidden ${styles.flexCenter}`}>
-        <Button />
+        <a href="https://produto.mercadolivre.com.br/MLB-3793922755-memorias-de-um-estradeiro-_JM">
+          <Button />
+        </a>
       </div>
     </section>
   );

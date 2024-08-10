@@ -5,7 +5,7 @@ import Button from "./Button";
 const CardDeal = () => (
   <section className={layout.section}>
     <div className={layout.sectionInfo}>
-      <h2 className={styles.heading2}>
+      <h2 className={`${styles.heading2} text-gradient`}>
         Produtos <br className="sm:block hidden" />
         Personalizados
       </h2>
@@ -13,7 +13,9 @@ const CardDeal = () => (
         Arcu tortor, purus in mattis at sed integer faucibus. Aliquet quis
         aliquet eget mauris tortor.ç Aliquet ultrices ac, ametau.
       </p>
-      <Button styles="mt-10 rounded-[10px]" />
+      <a href="https://produto.mercadolivre.com.br/MLB-3796356899-cuia-personalizada-do-livro-memorias-de-um-estradeiro-_JM">
+        <Button styles="mt-10 rounded-[10px]" />
+      </a>
     </div>
 
     <div className={`${layout.sectionImg} space-x-10`}>
