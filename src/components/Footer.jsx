@@ -52,7 +52,8 @@ const Footer = () => (
             key={social.id}
             src={social.icon}
             alt={social.id}
-            className={`w-[50px] h-[50px] object-contain cursor-pointer ${index !== socialMedia.length - 1 ? "mr-6" : "mr-0"} `}
+            className={`w-[50px] h-[50px] object-contain cursor-pointer ${index !== socialMedia.length - 1 ? "mr-6" : "mr-0"}`}
+            onClick={() => (window.location.href = social.link)} // Assuming "link" is the property that contains the URL
           />
         ))}
       </div>

@@ -30,8 +30,10 @@ import author from "./images-memorias/author.jpg";
 import cuia1 from "./images-memorias/cuia1.jpg";
 import cuia2 from "./images-memorias/cuia2.jpg";
 import miro from "./images-memorias/miro.png";
+import wpp from "./images-memorias/wpp.png";
 
 export {
+  wpp,
   miro,
   cuia1,
   cuia2,
