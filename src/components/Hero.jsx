@@ -38,7 +38,7 @@ const Hero = () => {
         <img
           src={bookcapa}
           alt="bookcapa"
-          className="w-[70%] h-[100%] relative z-[5] rounded-[10px]"
+          className=" sm:h-[50%] sm:w-[50%] md:w-[60%] md:h-[100%] w-[70%] h-[100%] relative z-[5] rounded-[10px]"
         />
 
         {/* gradient start */}
