@@ -14,7 +14,7 @@ import {
   send,
   shield,
   star,
-  wpp,
+  wppgreen,
 } from "../assets";
 
 export const navLinks = [
@@ -104,7 +104,7 @@ export const footerLinks = [
 export const socialMedia = [
   {
     id: "social-media-3",
-    icon: wpp,
+    icon: wppgreen,
     link: "whatsapp",
   },
   {

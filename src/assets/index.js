@@ -31,8 +31,10 @@ import cuia1 from "./images-memorias/cuia1.jpg";
 import cuia2 from "./images-memorias/cuia2.jpg";
 import miro from "./images-memorias/miro.png";
 import wpp from "./images-memorias/wpp.png";
+import wppgreen from "./images-memorias/wppverde.png";
 
 export {
+  wppgreen,
   wpp,
   miro,
   cuia1,

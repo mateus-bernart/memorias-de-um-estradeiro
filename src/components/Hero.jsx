@@ -25,16 +25,16 @@ const Hero = () => {
         </div>
 
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-          Em Memórias de um Estradeiro', mergulhe nas páginas emocionantes sobre
-          um homen cuja vida se entrelaça com as estradas, empresas e postos que
-          administrou Nessa jornada narrativa, João Troc compartilha não apenas
-          os desafios e triunfos do mundo dos negócios, mas também as histórias
-          pessoais e íntimas que moldaram a sua visão de mundo. Uma obra que vai
-          além de relatar acontecimentos, 'Memórias de um Estradeiro' é um
-          convite para reviver momentos de alegria, superar dificuldades e
-          valorizar as conexões humanas que nos sustentam. Uma leitura
-          envolvente que nos lembra que, no final, são as histórias e as pessoas
-          que encontramos ao longo do caminho que realmente importam.
+          Em "Memórias de um Estradeiro", mergulhe nas páginas emocionantes
+          sobre um homen cuja vida se entrelaça com as estradas, empresas e
+          postos que administrou Nessa jornada narrativa, João Troc compartilha
+          não apenas os desafios e triunfos do mundo dos negócios, mas também as
+          histórias pessoais e íntimas que moldaram a sua visão de mundo. Uma
+          obra que vai além de relatar acontecimentos, "Memórias de um
+          Estradeiro" é um convite para reviver momentos de alegria, superar
+          dificuldades e valorizar as conexões humanas que nos sustentam. Uma
+          leitura envolvente que nos lembra que, no final, são as histórias e as
+          pessoas que encontramos ao longo do caminho que realmente importam.
         </p>
       </div>
 
@@ -44,7 +44,7 @@ const Hero = () => {
         <img
           src={bookcapa}
           alt="bookcapa"
-          className=" sm:h-[50%] sm:w-[50%] md:w-[60%] md:h-[100%] w-[70%] h-[100%] relative z-[5] rounded-[10px]"
+          className="xs:w-[50%] xs:h-[50%] ss:w-[50%] ss:h-[50%] sm:w-[50%] sm:h-[50%] md:w-[100%] md:h-[100%] lg:w-[100%] lg:h-[100%] w-[100%] h-[100%] relative z-[5] rounded-[10px] mx-10"
         />
 
         {/* gradient start */}
