@@ -9,17 +9,18 @@ const CTA = () => (
   >
     <div className="flex-1 flex flex-col">
       <h2 className={styles.heading2}>
-        Faça sua compra no pix pelo nosso Whatsapp!
+        Pague com <span className="text-gradient">pix</span> de forma ágil pelo
+        nosso <span className="green-gradient">Whatsapp</span>!
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Não perca essa oportunidade! Você não irá se arrepender.
+        E tem mais: o frete é por nossa conta!
       </p>
       <p className={`${styles.paragraph} max-w-[470px] mt-5 text-gradient`}>
         Clique no Ícone do Whatsapp ao lado
       </p>
     </div>
 
-    <div className={`${styles.flexCenter} sm:ml-10 ml-0 sm:mt-0 mt-10`}>
+    <div className={`sm:ml-10 ml-0 sm:mt-0 mt-5`}>
       <a href="">
         <img
           src={wppgreen}
