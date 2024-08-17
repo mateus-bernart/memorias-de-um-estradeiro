@@ -9,15 +9,10 @@ const CTA = () => (
   >
     <div className="flex-1 flex flex-col">
       <h2 className={styles.heading2}>
-        Pague com <span className="text-gradient">pix</span> e ganhe frete
-        grátis pelo nosso <span className="green-gradient">Whatsapp</span>!
+        Pague com <span className="text-gradient">pix</span> e ganhe{" "}
+        <span className="underline-animation">frete grátis</span> pelo nosso{" "}
+        <span className="green-gradient">Whatsapp</span>!
       </h2>
-
-      {/* <p
-        className={`font-poppins font-normal text-dimWhite text-[35px] leading-[30.8px] max-w-[550px] mt-5 text-gradient`}
-      >
-        Clique no Ícone do Whatsapp!
-      </p> */}
     </div>
 
     <div className={`sm:ml-10 ml-0 sm:mt-0 mt-5 mb-5`}>
@@ -30,7 +25,7 @@ const CTA = () => (
 
         <button
           type="button"
-          className={`py-4 px-6 bg-green-600 font-poppins font-medium text-[25px] text-white outline-none ${styles} rounded-[8px]`}
+          className={`py-4 px-6 bg-green-600 font-poppins font-medium text-[25px] text-white outline-none ${styles} rounded-[8px] mt-5`}
         >
           Chamar agora!
         </button>

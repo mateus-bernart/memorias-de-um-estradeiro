@@ -18,6 +18,27 @@
   scroll-behavior: smooth;
 }
 
+.underline-animation {
+  position: relative;
+  display: inline-block;
+}
+
+.underline-animation::after {
+  content: "";
+  position: absolute;
+  width: 0;
+  height: 2px; /* Adjust the height of the underline */
+  background-color: yellow; /* Yellow color for the underline */
+  left: 0;
+  bottom: 0;
+  transition: width 0.5s ease-in-out; /* Adjust the duration of the transition */
+}
+
+.underline-animation:hover::after,
+.underline-animation::after {
+  width: 100%;
+}
+
 .text-gradient {
   background: radial-gradient(
     64.18% 64.18% at 71.16% 35.69%,

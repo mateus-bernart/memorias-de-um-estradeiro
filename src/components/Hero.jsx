@@ -18,7 +18,7 @@ const Hero = () => {
             <span className="text-gradient">Estradeiro</span>{" "}
           </h1>
           <div className="ss:flex hidden md:mr-4 mr-0">
-            <a href="https://produto.mercadolivre.com.br/MLB-3793922755-memorias-de-um-estradeiro-_JM">
+            <a href="https://produto.mercadolivre.com.br/MLB-3793922755-memorias-de-um-estradeiro-edico-1-joo-troc-portugus-_JM#position%3D33%26search_layout%3Dstack%26type%3Ditem%26tracking_id%3D0818bbe9-de1d-4e8d-8c95-7a6df958d452">
               <Button />
             </a>
           </div>

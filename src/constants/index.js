@@ -84,19 +84,15 @@ export const stats = [
 
 export const footerLinks = [
   {
-    title: "Contato!",
+    title: "Contatos",
     links: [
       {
         name: "Whatsapp comercial",
-        link: "https://www.hoobank.com/content/",
+        link: "https://wa.link/xej2fy",
       },
       {
-        name: "E-mail de exemplo",
-        link: "https://www.hoobank.com/how-it-works/",
-      },
-      {
-        name: "Terms & Services",
-        link: "https://www.hoobank.com/terms-and-services/",
+        name: "Email: joaotroc@hotmail.com",
+        link: "joaotroc@hotmail.com",
       },
     ],
   },
@@ -106,7 +102,7 @@ export const socialMedia = [
   {
     id: "social-media-3",
     icon: wpp,
-    link: "whatsapp",
+    link: "https://wa.link/xej2fy",
   },
   {
     id: "social-media-1",
