@@ -9,13 +9,18 @@ const CardDeal = () => (
         Produtos <br className="sm:block hidden" />
         Personalizados
       </h2>
-      <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
+      <p className={`${styles.paragraph} max-w-[470px] mt-5 mb-5`}>
         Da tradição das estradas, a cuia é um símbolo da cultura do autor. Seu
         objetivo é principalmente as boas conversas!
       </p>
-      <a href="https://produto.mercadolivre.com.br/MLB-3796356899-cuia-personalizada-do-livro-memorias-de-um-estradeiro-_JM">
-        <Button styles="mt-10 rounded-[10px]" />
-      </a>
+      {/* <a href="https://produto.mercadolivre.com.br/MLB-3796356899-cuia-personalizada-do-livro-memorias-de-um-estradeiro-_JM"> */}
+      <button
+        type="button"
+        className={`py-4 px-6 bg-gray-gradient font-poppins font-medium text-[18px] text-white outline-none ${styles} rounded-[8px]`}
+      >
+        Fora de estoque!
+      </button>
+      {/* </a> */}
     </div>
 
     <div className={`${layout.sectionImg} space-x-5`}>

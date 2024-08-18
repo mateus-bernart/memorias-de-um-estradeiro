@@ -12,6 +12,7 @@ import {
   CTA,
   Footer,
 } from "./components";
+import MercadoLivre from "./components/MercadoLivre";
 
 const App = () => (
   <div className="bg-primary w-full overflow-hidden">
@@ -31,10 +32,12 @@ const App = () => (
       <div className={`${styles.boxWidth}`}>
         <Stats />
         <CTA />
+        <MercadoLivre />
         <Billing />
         <CardDeal />
         <Testimonials />
         <CTA />
+        <MercadoLivre />
         <Footer />
       </div>
     </div>

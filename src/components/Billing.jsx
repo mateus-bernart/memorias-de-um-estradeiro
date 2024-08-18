@@ -1,5 +1,6 @@
 import { apple, bill, google, author } from "../assets";
 import styles, { layout } from "../style";
+import Button from "./Button";
 
 const Billing = () => (
   <section id="author" className={layout.sectionReverse}>

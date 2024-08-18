@@ -68,7 +68,7 @@ export const stats = [
   {
     id: "stats-1",
     title: "Horas na estrada",
-    value: "350 mil+",
+    value: "100 mil+",
   },
   {
     id: "stats-2",
