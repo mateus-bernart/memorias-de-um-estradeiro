@@ -7,7 +7,7 @@ const Button = ({ styles }) => {
         type="button"
         className={`py-7 px-10 bg-yellow-gradient font-poppins font-medium text-[25px] text-white outline-none ${styles} rounded-[8px] mb-10`}
       >
-        Garanta o seu pelo Mercado Livre!
+        Compre o seu pelo Mercado Livre!
       </button>
     </a>
   );

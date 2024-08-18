@@ -32,8 +32,12 @@ import cuia2 from "./images-memorias/cuia2.jpg";
 import miro from "./images-memorias/miro.png";
 import wpp from "./images-memorias/wpp.png";
 import wppgreen from "./images-memorias/wppverde.png";
+import fotomatajunta from "./images-memorias/matajunta.png";
+import fotosimoninha from "./images-memorias/simoninha.png";
 
 export {
+  fotomatajunta,
+  fotosimoninha,
   wppgreen,
   wpp,
   miro,
