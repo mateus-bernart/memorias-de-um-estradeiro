@@ -34,8 +34,10 @@ import wpp from "./images-memorias/wpp.png";
 import wppgreen from "./images-memorias/wppverde.png";
 import fotomatajunta from "./images-memorias/matajunta.png";
 import fotosimoninha from "./images-memorias/simoninha.png";
+import fotoesposatoninho from "./images-memorias/esposatoninho.png";
 
 export {
+  fotoesposatoninho,
   fotomatajunta,
   fotosimoninha,
   wppgreen,

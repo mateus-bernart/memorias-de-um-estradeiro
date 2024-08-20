@@ -18,6 +18,7 @@ import {
   wpp,
   fotomatajunta,
   fotosimoninha,
+  fotoesposatoninho,
 } from "../assets";
 
 export const navLinks = [
@@ -31,29 +32,29 @@ export const navLinks = [
   },
 ];
 
-// export const features = [
-//   {
-//     id: "feature-1",
-//     icon: star,
-//     title: "Rewards",
-//     content:
-//       "The best credit cards offer some tantalizing combinations of promotions and prizes",
-//   },
-//   {
-//     id: "feature-2",
-//     icon: shield,
-//     title: "100% Secured",
-//     content:
-//       "We take proactive steps make sure your information and transactions are secure.",
-//   },
-//   {
-//     id: "feature-3",
-//     icon: send,
-//     title: "Balance Transfer",
-//     content:
-//       "A balance transfer credit card can save you a lot of money in interest charges.",
-//   },
-// ];
+export const features = [
+  {
+    id: "feature-1",
+    icon: star,
+    title: "Rewards",
+    content:
+      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+  },
+  {
+    id: "feature-2",
+    icon: shield,
+    title: "100% Secured",
+    content:
+      "We take proactive steps make sure your information and transactions are secure.",
+  },
+  {
+    id: "feature-3",
+    icon: send,
+    title: "Balance Transfer",
+    content:
+      "A balance transfer credit card can save you a lot of money in interest charges.",
+  },
+];
 
 export const feedback = [
   {
@@ -79,6 +80,14 @@ export const feedback = [
     name: "Simone Vieira",
     title: "Locutora e repórter Rádio Rural e 96FM",
     img: fotosimoninha,
+  },
+  {
+    id: "feedback-1",
+    content:
+      "Agora ainda vou ler mais uns contos, é muito gostoso e fico ansiosa para saber mais apesar do horário. Boa noite e que Deus acompanhe na sua viagem.",
+    name: "Vandete Comassetto",
+    title: "esposa do Antoninho da Fronteira (in memorian)",
+    img: fotoesposatoninho,
   },
 ];
 
