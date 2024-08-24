@@ -13,14 +13,14 @@ const CardDeal = () => (
         Da tradição das estradas, a cuia é um símbolo da cultura do autor. Seu
         objetivo é principalmente as boas conversas!
       </p>
-      {/* <a href="https://produto.mercadolivre.com.br/MLB-3796356899-cuia-personalizada-do-livro-memorias-de-um-estradeiro-_JM"> */}
-      <button
-        type="button"
-        className={`py-4 px-6 bg-gray-gradient font-poppins font-medium text-[18px] text-white outline-none ${styles} rounded-[8px]`}
-      >
-        Fora de estoque!
-      </button>
-      {/* </a> */}
+      <a href="https://produto.mercadolivre.com.br/MLB-3796356899-cuia-personalizada-do-livro-memorias-de-um-estradeiro-_JM">
+        <button
+          type="button"
+          className={`py-4 px-6 bg-yellow-gradient font-poppins font-medium text-[30px] text-white outline-none ${styles} rounded-[8px]`}
+        >
+          Adquira a sua!
+        </button>
+      </a>
     </div>
 
     <div className={`${layout.sectionImg} space-x-5`}>
