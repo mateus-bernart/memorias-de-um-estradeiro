@@ -19,6 +19,8 @@ import {
   fotomatajunta,
   fotosimoninha,
   fotoesposatoninho,
+  fotoalisson,
+  fotozanella,
 } from "../assets";
 
 export const navLinks = [
@@ -84,10 +86,25 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Agora ainda vou ler mais uns contos, é muito gostoso e fico ansiosa para saber mais apesar do horário. Boa noite e que Deus acompanhe na sua viagem.",
+      "Ainda vou ler mais alguns contos, é muito gostoso e fico ansiosa para saber mais apesar do horário. Que Deus acompanhe na sua viagem.",
     name: "Vandete Comassetto",
-    title: "esposa do Antoninho da Fronteira (in memorian)",
+    title: "esposa do Antoninho da Fronteira (in memorian)",
     img: fotoesposatoninho,
+  },
+  {
+    id: "feedback-1",
+    content:
+      "É uma baita livro…. Que relata histórias de um cara que viveu muitas coisas, muitas passagens, muitas histórias da estrada que não cabem em um livro apenas… mas esse seu jeito de contar, na sua forma de demonstrar um pequeno pedaço da longa trajetória a qual você passou, tu já consegue nos envolver e nos tornar parte de um pedacinho pequeno da sua grande vida.. Obrigado por me incluir nela!!! Sempre serei grato pelas conversas, mensagens, e pela grande amizade que você resolveu me dar de graça….",
+    name: "Alisson Antonio Rossa",
+    title: "Gerente líder de equipe Postos Monte Carlo",
+    img: fotoalisson,
+  },
+  {
+    id: "feedback-1",
+    content: "O livro é ótimo. Você é um vencedor",
+    name: "Modesto Zanella",
+    title: "Empresário Aposentado",
+    img: fotozanella,
   },
 ];
 
