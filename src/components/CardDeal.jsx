@@ -18,7 +18,7 @@ const CardDeal = () => (
           type="button"
           className={`py-4 px-6 bg-yellow-gradient font-poppins font-medium text-[30px] text-white outline-none ${styles} rounded-[8px]`}
         >
-          Adquira a sua!
+          Adquira a sua cuia!
         </button>
       </a>
     </div>
