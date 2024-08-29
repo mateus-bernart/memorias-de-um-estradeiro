@@ -21,6 +21,8 @@ import {
   fotoesposatoninho,
   fotoalisson,
   fotozanella,
+  fotoalcione,
+  fotokenia,
 } from "../assets";
 
 export const navLinks = [
@@ -70,7 +72,7 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Parabéns e certeza que será um  sucesso fico feliz em  poder contribuir minimamente com seus sonhos e  que seja feliz com a realização do sucesso. Sem palavras",
+      "Parabéns e certeza que será um  sucesso fico feliz em  poder contribuir minimamente com seus sonhos e  que seja feliz com a realização do sucesso.",
     name: "Gilmar Benetti",
     title: "Dono da transportadora Expresso Matajunta",
     img: fotomatajunta,
@@ -78,7 +80,7 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Tomando meu chima e me divertindo com as histórias. Parabéns. Belo trabalho, leitura leve, divertida.",
+      "Você foi muito feliz na forma que escreveu, histórias curtinhas, divertidas. Em um tempo em que a maioria das pessoas não aguenta 15 segundos assistindo um reels nas redes sociais, as histórias curtas prendem.",
     name: "Simone Vieira",
     title: "Locutora e repórter Rádio Rural e 96FM",
     img: fotosimoninha,
@@ -101,10 +103,24 @@ export const feedback = [
   },
   {
     id: "feedback-1",
-    content: "O livro é ótimo. Você é um vencedor",
+    content: "O livro é ótimo. Você é um vencedor.",
     name: "Modesto Zanella",
     title: "Empresário Aposentado",
     img: fotozanella,
+  },
+  {
+    id: "feedback-1",
+    content: "Bom dia!  Ontem a noite cheguei no final do livro muito bom parabéns!",
+    name: "Alcione Christiman",
+    title: "Profissional de vendas de Maquinas e implementos Agricolas",
+    img: fotoalcione,
+  },
+  {
+    id: "feedback-1",
+    content: "Parabéns pelo feito. Um livro que vai muito além do seu significado literal, pois é sim, um relato de vida. Vida esta que construímos dia após dia, por lágrimas e sorrisos, momentos alegres e tristes, junto a tantas pessoas (singulares). Vida essa de altos e baixos, de aprendizado, caráter, escolhas (renúncias), sentimentos, sensação de missão cumprida e por vezes de fracasso. Normal, pois somos humanos, falhos e errantes. E o que nos resta? A ousadia, a força, a fé, o discernimento, a coragem de ser, e de nos apropriamos de quem somos e de quem seremos. Grata pela oportunidades de ter lhe conhecido. Certamente a palavra “troca” cabe certinho aqui. Orgulhe-se pela coragem de ser, e mostrar a todos quem és. Pois isso, é missão para poucos. Sucesso!",
+    name: "Kenia Bressan",
+    title: "Psicóloga",
+    img: fotokenia,
   },
 ];
 

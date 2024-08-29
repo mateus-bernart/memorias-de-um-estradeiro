@@ -37,8 +37,12 @@ import fotosimoninha from "./images-memorias/simoninha.png";
 import fotoesposatoninho from "./images-memorias/esposatoninho.png";
 import fotoalisson from "./images-memorias/alisson.png";
 import fotozanella from "./images-memorias/modestozanella.png";
+import fotoalcione from './images-memorias/alcione.png'
+import fotokenia from './images-memorias/kenia.png'
 
 export {
+  fotokenia,
+  fotoalcione,
   fotozanella,
   fotoalisson,
   fotoesposatoninho,
