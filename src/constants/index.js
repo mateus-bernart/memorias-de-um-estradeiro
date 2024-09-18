@@ -143,6 +143,14 @@ export const feedback = [
     title: "Servidora Pública",
     img: fotosimone,
   },
+  {
+    id: "feedback-1",
+    content:
+      "João, a sua primeira história foi incrível! Tive a impressão de estar conversando com você aqui em casa sentado na minha mesa. Sensacional!",
+    name: "Elizabety Zanardi",
+    title: "Chefe de Cozinha",
+    img: fotoelizabety,
+  },
 ];
 
 export const stats = [
