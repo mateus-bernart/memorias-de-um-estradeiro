@@ -130,7 +130,7 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Chegou e já li todo. Emocionante histórias. Não consigo para de ler, realmente maravilhoso",
+      "Chegou e já li todo. Emocionante histórias. Não consigo parar de ler, realmente maravilhoso",
     name: "Adesio Barth",
     title: "Empresário",
     img: fotoadesio,
