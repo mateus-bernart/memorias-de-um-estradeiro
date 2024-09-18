@@ -37,10 +37,16 @@ import fotosimoninha from "./images-memorias/simoninha.png";
 import fotoesposatoninho from "./images-memorias/esposatoninho.png";
 import fotoalisson from "./images-memorias/alisson.png";
 import fotozanella from "./images-memorias/modestozanella.png";
-import fotoalcione from './images-memorias/alcione.png'
-import fotokenia from './images-memorias/kenia.png'
+import fotoalcione from "./images-memorias/alcione.png";
+import fotokenia from "./images-memorias/kenia.png";
+import fotoadesio from "./images-memorias/adesio.png";
+import fotoelizabety from "./images-memorias/elizabety.png";
+import fotosimone from "./images-memorias/fotosimone.png";
 
 export {
+  fotosimone,
+  fotoelizabety,
+  fotoadesio,
   fotokenia,
   fotoalcione,
   fotozanella,

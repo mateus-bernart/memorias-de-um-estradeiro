@@ -23,6 +23,9 @@ import {
   fotozanella,
   fotoalcione,
   fotokenia,
+  fotoadesio,
+  fotoelizabety,
+  fotosimone,
 } from "../assets";
 
 export const navLinks = [
@@ -110,17 +113,35 @@ export const feedback = [
   },
   {
     id: "feedback-1",
-    content: "Bom dia!  Ontem a noite cheguei no final do livro muito bom parabéns!",
+    content:
+      "Bom dia!  Ontem a noite cheguei no final do livro muito bom parabéns!",
     name: "Alcione Christiman",
     title: "Profissional de vendas de Maquinas e implementos Agricolas",
     img: fotoalcione,
   },
   {
     id: "feedback-1",
-    content: "Parabéns pelo feito. Um livro que vai muito além do seu significado literal, pois é sim, um relato de vida. Vida esta que construímos dia após dia, por lágrimas e sorrisos, momentos alegres e tristes, junto a tantas pessoas (singulares). Vida essa de altos e baixos, de aprendizado, caráter, escolhas (renúncias), sentimentos, sensação de missão cumprida e por vezes de fracasso. Normal, pois somos humanos, falhos e errantes. E o que nos resta? A ousadia, a força, a fé, o discernimento, a coragem de ser, e de nos apropriamos de quem somos e de quem seremos. Grata pela oportunidades de ter lhe conhecido. Certamente a palavra “troca” cabe certinho aqui. Orgulhe-se pela coragem de ser, e mostrar a todos quem és. Pois isso, é missão para poucos. Sucesso!",
+    content:
+      "Parabéns pelo feito. Um livro que vai muito além do seu significado literal, pois é sim, um relato de vida. Vida esta que construímos dia após dia, por lágrimas e sorrisos, momentos alegres e tristes, junto a tantas pessoas (singulares). Vida essa de altos e baixos, de aprendizado, caráter, escolhas (renúncias), sentimentos, sensação de missão cumprida e por vezes de fracasso. Normal, pois somos humanos, falhos e errantes. E o que nos resta? A ousadia, a força, a fé, o discernimento, a coragem de ser, e de nos apropriamos de quem somos e de quem seremos. Grata pela oportunidades de ter lhe conhecido. Certamente a palavra “troca” cabe certinho aqui. Orgulhe-se pela coragem de ser, e mostrar a todos quem és. Pois isso, é missão para poucos. Sucesso!",
     name: "Kenia Bressan",
     title: "Psicóloga",
     img: fotokenia,
+  },
+  {
+    id: "feedback-1",
+    content:
+      "Chegou e já li todo. Emocionante histórias. Não consigo para de ler, realmente maravilhoso",
+    name: "Adesio Barth",
+    title: "Empresário",
+    img: fotoadesio,
+  },
+  {
+    id: "feedback-1",
+    content:
+      "Acho que não vou dormir até terminar. Consigo ver o João contando as histórias, a vozinha da Joanna em uma das histórias. Passa igual um filme, me pego rindo sozinha como se estivéssemos presente conversando. Se eu gostei do livro? Eu ameeei, inclusive estou com vontade de presentear várias pessoas com ele!",
+    name: "Simone Colasso",
+    title: "Servidora Pública",
+    img: fotosimone,
   },
 ];
 
